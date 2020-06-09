@@ -1,4 +1,4 @@
-## Our Graduates Certificates
+## Our Graduates
 
 Class | Name 
 --- | --- |
