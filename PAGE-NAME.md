@@ -1,3 +1,3 @@
 layout: page
 title: "PAGE TITLE"
-permalink: /img/resu.html
+permalink: /img/resume.html
