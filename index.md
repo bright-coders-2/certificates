@@ -1,7 +1,7 @@
 # Our Graduates
 
 ## Class BC-ENE-20
-### 13 Ene - 26 Jun 2020
+### 13th Jan - 26th Jun 2020
 
 Num | BC-ID | Program | Name 
 --- | --- | --- | ---
