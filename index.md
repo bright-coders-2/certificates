@@ -14,7 +14,7 @@ Num | BC-ID | Program | Name
 07 | BC200107 | Shopify	|	[Aarón Iván Barreto Tapia](class/bc-ene-20/BC200107.pdf)
 08 | BC200108 | Shopify	|	[Jaime Osvaldo González Cárdenas](class/bc-ene-20/BC200108.pdf)
 09 | BC200109 | UI/UX	|	[Rubí Lizet Castellanos Núñez](class/bc-ene-20/BC200109.pdf)
-10 | BC200110 | RN	|	[José Luis Peregrina Rosales](class/bc-ene-20/BC20010.pdf)
+10 | BC200110 | RN	|	[José Luis Peregrina Rosales](class/bc-ene-20/BC200110.pdf)
 11 | BC200111 | RN	|	[Mariana Guadalupe Maldonado Enríquez](class/bc-ene-20/BC200111.pdf)
 12 | BC200112 | RoR	|	[Jorge Alejandro Vargas Martínez](class/bc-ene-20/BC200112.pdf)
 13 | BC200113 | RoR	|	[José Jaime Ortiz Diaz](class/bc-ene-20/BC200113.pdf)
