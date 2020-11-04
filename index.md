@@ -1,14 +1,14 @@
 # Our Graduates
 
 ## Clase BC-JUN-2020
-### 01 JUN - 13 NOV 2020
+### 01st Jun - 13th Nov 2020
 
 | Num |  BC-ID | Prog | Nombre | 
 | --- | --- | --- | --- |
 | 023  | BC062001 | RoR | [Carlos Segura Chávez](class/bc-jun-20/BC062001.pdf) |
 
 ## Clase BC-MAY-2020
-### 18 MAY - 13 NOV 2020
+### 18th May - 13th Nov 2020
 
 | Num | BC-ID | Program | Name | 
 | --- | --- | --- | --- |
