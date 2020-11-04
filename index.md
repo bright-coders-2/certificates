@@ -1,5 +1,24 @@
 # Our Graduates
 
+## Clase BC-JUN-2020
+### 01 JUN - 13 NOV 2020
+
+| Num | Prog | Nombre | ScoreCard |
+| --- | --- | --- | --- |
+| 01  | RoR | [Carlos Segura Chávez](class/bc-jun-20/BC062001.pdf) |
+
+## Clase BC-MAY-2020
+### 18 MAY - 13 NOV 2020
+
+| Num | Prog | Nombre | ScoreCard |
+| --- | --- | --- | --- |
+| 01  | RoR | [Mario Andrés Pacheco Mendez](class/bc-may-20/BC052001.pdf) |
+| 02  | RoR | [Diego Aaron Figueroa Campos](class/bc-may-20/BC052002.pdf) | 
+| 03  | RoR | [Jorge Alonso Garcia Vega](class/bc-may-20/BC052003.pdf) | 
+| 04  | RoR | [Alejandro Cabrera Moncada](class/bc-may-20/BC052004.pdf) | 
+| 05  | RN | [Owen Omar Ramirez Lopez](class/bc-may-20/BC052005.pdf) |
+| 06  | RN | [Erik Aldahir Parra Santillán](class/bc-may-20/BC052006.pdf) |
+
 ## Class BC-ENE-20
 ### 13th Jan - 26th Jun 2020
 
