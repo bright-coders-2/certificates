@@ -1,5 +1,25 @@
 # Our Graduates
 
+## Clase BC-AUG-2020
+### 31st Aug 2020 - 23rd Feb 2021
+
+| Num |  BC-ID | Prog | Nombre | 
+| --- | --- | --- | --- |
+| 037  | BC0821001 | RoR | [Eduardo David Jiménez Cisneros](class/bc-aug-20/BC0821001.pdf) |
+| 036  | BC0821002 | RoR | [Edgar Díaz Jaymez](class/bc-aug-20/BC0821002.pdf) |
+| 035  | BC0821003 | RoR | [Karina Elizabeth Delgado Rodríguez](class/bc-aug-20/BC0821003.pdf) |
+| 034  | BC0821004 | RoR | [Karla Daniela Segura Sotomayor](class/bc-aug-20/BC0821004.pdf) |
+| 033  | BC0821005 | RoR | [Ricardo Trejos Restrepo](class/bc-aug-20/BC0821005.pdf) |
+| 032  | BC0821006 | RoR | [José Pedro Chávez Aparicio](class/bc-aug-20/BC0821006.pdf) |
+| 031  | BC0821007 | RoR | [Gilberto Armando Aguirre Alvarez](class/bc-aug-20/BC0821007.pdf) |
+| 030  | BC0821008 | RoR | [Jacqueline Flores Méndez](class/bc-aug-20/BC0821008.pdf) |
+| 029  | BC0821009 | RN  | [Oscar Cosme Ventura](class/bc-aug-20/BC0821009.pdf) |
+| 028  | BC0821010 | RN  | [Héber Rodrigo Herrera Cruz](class/bc-aug-20/BC0821010.pdf) |
+| 027  | BC0821011 | RN  | [Jordi Alejandro Garcia Nuñez](class/bc-aug-20/BC0821011.pdf) |
+| 026  | BC0821012 | RN  | [Oscar Hiram Alvarez Campos](class/bc-aug-20/BC0821012.pdf) |
+| 025  | BC0821013 | RN  | [Elias Daniel Sanchez Lopez](class/bc-aug-20/BC0821013.pdf) |
+| 024  | BC0821014 | RN | [Luis Oswaldo Tovar Olivera](class/bc-aug-20/BC0821014.pdf) |
+
 ## Clase BC-JUN-2020
 ### 01st Jun - 13th Nov 2020
 
