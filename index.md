@@ -1,7 +1,35 @@
 # Our Graduates
 
+## Clase BC-NOV-2020
+### 30 Nov 2020 - 21 May 2021
+
+| Num |  BC-ID | Prog | Nombre | 
+| --- | --- | --- | --- |
+| 058  | BC1120001 | RoR | [Ariel Enrique May Dzul](class/bc-nov-20/BC1120001.pdf) |
+| 057  | BC1120002 | RoR | [Fernando Israel González Madrigal](class/bc-nov-20/BC1120002.pdf) |
+| 056  | BC1120003 | RoR | [Frania Sinahi Suarez Lopez](class/bc-nov-20/BC1120003.pdf) |
+| 055  | BC1120004 | RoR | [Jorge Andrés Ochoa Alcaraz](class/bc-nov-20/BC1120004.pdf) |
+| 054  | BC1120005 | RoR | [José Alberto Negrete González](class/bc-nov-20/BC1120005.pdf) |
+| 053  | BC1120006 | RoR | [Luis Diego Vera Alvarez](class/bc-nov-20/BC1120006.pdf) |
+| 052  | BC1120007 | RoR | [Luis Pedro Mendoza Aceves](class/bc-nov-20/BC1120007.pdf) |
+| 051  | BC1120008 | RoR | [Mario Rubén Mancilla Tinoco](class/bc-nov-20/BC1120008.pdf) |
+| 050  | BC1120009 | RoR | [Miguel Alejandro Oceguera Munguía](class/bc-nov-20/BC1120009.pdf) |
+| 049  | BC1120010 | RoR | [Raul Egidio Ferreira Goebel](class/bc-nov-20/BC1120010.pdf) |
+| 048  | BC1120011 | RN | [Andrés Jacinto Araujo Ortiz](class/bc-nov-20/BC1120011.pdf) |
+| 047  | BC1120012 | RN | [Génesis Flores Zárate](class/bc-nov-20/BC1120012.pdf) |
+| 046  | BC1120013 | RN | [Héctor Arturo Aguirre Munguía](class/bc-nov-20/BC1120013.pdf) |
+| 045  | BC1120014 | RN | [Héctor Manuel Ruvalcaba Pizano](class/bc-nov-20/BC1120014.pdf) |
+| 044  | BC1120015 | RN | [Jazmin Chávez Flores](class/bc-nov-20/BC1120015.pdf) |
+| 043  | BC1120016 | RN | [Joaquin Niembro Bueno Gómez](class/bc-nov-20/BC1120016.pdf) |
+| 042  | BC1120017 | RN | [Jorge Ramírez García](class/bc-nov-20/BC1120017.pdf) |
+| 041  | BC1120018 | RN | [Juan Jesús Carbajal Ramos](class/bc-nov-20/BC1120018.pdf) |
+| 040  | BC1120019 | RN | [Mariam Rivera Hernández](class/bc-nov-20/BC1120019.pdf) |
+| 039  | BC1120020 | RN | [Valdemar Gerzain Magaña Nicolás](class/bc-nov-20/BC1120020.pdf) |
+| 038  | BC1120021 | RN | [Yessica Chantal Ramírez Covarrubias](class/bc-nov-20/BC1120021.pdf) |
+
+
 ## Clase BC-AUG-2020
-### 31st Aug 2020 - 23rd Feb 2021
+### 31 Ago 2020 - 23 Feb 2021
 
 | Num |  BC-ID | Prog | Nombre | 
 | --- | --- | --- | --- |
@@ -21,14 +49,14 @@
 | 024  | BC0821014 | RN | [Luis Oswaldo Tovar Olivera](class/bc-aug-20/BC0821014.pdf) |
 
 ## Clase BC-JUN-2020
-### 01st Jun - 13th Nov 2020
+### 01 Jun - 13 Nov 2020
 
 | Num |  BC-ID | Prog | Nombre | 
 | --- | --- | --- | --- |
 | 023  | BC062001 | RoR | [Carlos Segura Chávez](class/bc-jun-20/BC062001.pdf) |
 
 ## Clase BC-MAY-2020
-### 18th May - 13th Nov 2020
+### 18 May - 13 Nov 2020
 
 | Num | BC-ID | Program | Name | 
 | --- | --- | --- | --- |
@@ -39,8 +67,8 @@
 | 018  | BC052005 | RN | [Owen Omar Ramirez Lopez](class/bc-may-20/BC052005.pdf) |
 | 017  | BC052006 | RN | [Erik Aldahir Parra Santillán](class/bc-may-20/BC052006.pdf) |
 
-## Class BC-ENE-20
-### 13th Jan - 26th Jun 2020
+## Clase BC-ENE-20
+### 13 Ene - 26 Jun 2020
 
 Num | BC-ID | Program | Name 
 --- | --- | --- | ---
