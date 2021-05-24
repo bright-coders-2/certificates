@@ -5,6 +5,7 @@
 
 | Num |  BC-ID | Prog | Nombre | 
 | --- | --- | --- | --- |
+| 058  | BC1120022 | RoR | [Adrian Rama Aguilar](class/bc-nov-20/BC1120022.pdf) |
 | 058  | BC1120001 | RoR | [Ariel Enrique May Dzul](class/bc-nov-20/BC1120001.pdf) |
 | 057  | BC1120002 | RoR | [Fernando Israel González Madrigal](class/bc-nov-20/BC1120002.pdf) |
 | 056  | BC1120003 | RoR | [Frania Sinahi Suarez Lopez](class/bc-nov-20/BC1120003.pdf) |
