@@ -7,24 +7,24 @@
 | Num |  BC-ID | Prog | Nombre | 
 | --- | --- | --- | --- |
 | 131 | BC0321001 | RoR | [Alan Guillermo Avila Macías](class/bc-mar-21/BC0321001.pdf) |
-| 130 | BC0321001 | RoR | [Angelina Moreno Robledo](class/bc-mar-21/BC0321002.pdf) |
-| 129 | BC0321001 | RoR | [Brayan Lopez Benitez](class/bc-mar-21/BC0321003.pdf) |
-| 128 | BC0321001 | RoR | [Brayan Yassua Diaz Cardenas](class/bc-mar-21/BC0321004.pdf) |
-| 127 | BC0321001 | RoR | [Carlos Montiel Medina](class/bc-mar-21/BC0321005.pdf) |
-| 126 | BC0321001 | RoR | [Eusebio Ajas Santos](class/bc-mar-21/BC0321006.pdf) |
-| 125 | BC0321001 | RoR | [Javier Fernando Chi Ortiz](class/bc-mar-21/BC0321007.pdf) |
-| 124 | BC0321001 | RoR | [Rubén Mariano Alarcón](class/bc-mar-21/BC0321008.pdf) |
-| 123 | BC0321001 | RoR | [Miguel Antonio Rodriguez Perez](class/bc-mar-21/BC0321009.pdf) |
-| 122 | BC0321001 | RoR | [Roberto Antonio Velasco Munguía](class/bc-mar-21/BC0321010.pdf) |
-| 121 | BC0321001 | RN | [Alfredo Alonzo Alcaráz Silva](class/bc-mar-21/BC0321011.pdf) |
-| 120 | BC0321001 | RN | [Carlos Adrian Cortés Meléndez](class/bc-mar-21/BC0321012.pdf) |
-| 119 | BC0321001 | RN | [Demis Alberto Rincón Martínez](class/bc-mar-21/BC0321013.pdf) |
-| 118 | BC0321001 | RN | [Diego Rodríguez López](class/bc-mar-21/BC0321014.pdf) |
-| 117 | BC0321001 | RN | [Francisco Sabino López Escamilla](class/bc-mar-21/BC0321015.pdf) |
-| 116 | BC0321001 | RN | [Gilberto Armando Aguirre Alvarez](class/bc-mar-21/BC0321016.pdf) |
-| 115 | BC0321001 | RN | [Jacqueline Flores Méndez](class/bc-mar-21/BC0321017.pdf) |
-| 114 | BC0321001 | RN | [José Antonio Támara Fuentes](class/bc-mar-21/BC0321018.pdf) |
-| 113 | BC0321001 | RN | [Orlando Álvarez Peregrina](class/bc-mar-21/BC0321019.pdf) |
+| 130 | BC0321002 | RoR | [Angelina Moreno Robledo](class/bc-mar-21/BC0321002.pdf) |
+| 129 | BC0321003 | RoR | [Brayan Lopez Benitez](class/bc-mar-21/BC0321003.pdf) |
+| 128 | BC0321004 | RoR | [Brayan Yassua Diaz Cardenas](class/bc-mar-21/BC0321004.pdf) |
+| 127 | BC0321005 | RoR | [Carlos Montiel Medina](class/bc-mar-21/BC0321005.pdf) |
+| 126 | BC0321006 | RoR | [Eusebio Ajas Santos](class/bc-mar-21/BC0321006.pdf) |
+| 125 | BC0321007 | RoR | [Javier Fernando Chi Ortiz](class/bc-mar-21/BC0321007.pdf) |
+| 124 | BC0321008 | RoR | [Rubén Mariano Alarcón](class/bc-mar-21/BC0321008.pdf) |
+| 123 | BC0321009 | RoR | [Miguel Antonio Rodriguez Perez](class/bc-mar-21/BC0321009.pdf) |
+| 122 | BC0321010 | RoR | [Roberto Antonio Velasco Munguía](class/bc-mar-21/BC0321010.pdf) |
+| 121 | BC0321011 | RN | [Alfredo Alonzo Alcaráz Silva](class/bc-mar-21/BC0321011.pdf) |
+| 120 | BC0321012 | RN | [Carlos Adrian Cortés Meléndez](class/bc-mar-21/BC0321012.pdf) |
+| 119 | BC0321013 | RN | [Demis Alberto Rincón Martínez](class/bc-mar-21/BC0321013.pdf) |
+| 118 | BC0321014 | RN | [Diego Rodríguez López](class/bc-mar-21/BC0321014.pdf) |
+| 117 | BC0321015 | RN | [Francisco Sabino López Escamilla](class/bc-mar-21/BC0321015.pdf) |
+| 116 | BC0321016 | RN | [Gilberto Armando Aguirre Alvarez](class/bc-mar-21/BC0321016.pdf) |
+| 115 | BC0321017 | RN | [Jacqueline Flores Méndez](class/bc-mar-21/BC0321017.pdf) |
+| 114 | BC0321018 | RN | [José Antonio Támara Fuentes](class/bc-mar-21/BC0321018.pdf) |
+| 113 | BC0321019 | RN | [Orlando Álvarez Peregrina](class/bc-mar-21/BC0321019.pdf) |
 
 ## Clase BC-NOV-2020
 ### 30 Nov 2020 - 21 May 2021
