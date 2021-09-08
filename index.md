@@ -1,5 +1,26 @@
 # Our Graduates
 
+## Clase BCMAY2021
+
+### 31 May 2021 - 17 Sep 2021
+
+| Num |  BC-ID | Prog | Nombre | 
+| --- | --- | --- | --- |
+| 145 | BC0521001 | RoR | [Alejandro Vázquez Ibarra](class/bc-may-21/BC0521001.pdf) |
+| 144 | BC0521002 | RoR | [Angel Arturo Oramas Rojas](class/bc-may-21/BC0521002.pdf) |
+| 143 | BC0521003 | RoR | [Elizabeth Sarahi Navarro Mateos](class/bc-may-21/BC0521003.pdf) |
+| 142 | BC0521004 | RoR | [Fernando Viveros Jimenez](class/bc-may-21/BC0521004.pdf) |
+| 141 | BC0521005 | RoR | [Jairo Olan Mayo](class/bc-may-21/BC0521005.pdf) |
+| 140 | BC0521006 | RoR | [Javier Ismael Sampablo Cuevas](class/bc-may-21/BC0521006.pdf) |
+| 139 | BC0521007 | RoR | [Jesus Omar Rodriguez Bravo](class/bc-may-21/BC0521007.pdf) |
+| 138 | BC0521008 | RoR | [Jose Ricardo Jimenez Campos](class/bc-may-21/BC0521008.pdf) |
+| 137 | BC0521009 | RoR | [Julio Ariel Cabrera Caamal](class/bc-may-21/BC0521009.pdf) |
+| 136 | BC0521010 | RoR | [Martin Mojica Torres](class/bc-may-21/BC0521010.pdf) |
+| 135 | BC0521011 | RoR | [Roberto Faustino Carrasco Medina](class/bc-may-21/BC0521011.pdf) |
+| 134 | BC0521012 | RN | [Hancel Rigoberto Ávila Galindo](class/bc-may-21/BC0521012.pdf) |
+| 133 | BC0521013 | RN | [Roberto Cortez Valencia](class/bc-may-21/BC0521013.pdf) |
+| 132 | BC0521014 | RN | [Yovanha Alitzel Fajardo Borjas](class/bc-may-21/BC0521014.pdf) |
+
 ## Clase BC-MAR-2021
 
 ### 08 Mar 2021 - 25 Jun 2021
