@@ -6,17 +6,17 @@
 
 | Num |  BC-ID | Prog | Nombre | 
 | --- | --- | --- | --- |
-| 156 | BC0821001	| RoR	| [Adrian Manuel Robles Jiménez](class/bc-AUG-21/BC0821001.pdf) |
-| 155 | BC0821002	| RoR	| [Edson Paul Morfin Gallardo](class/bc-AUG-21/BC0821002.pdf) |
-| 154 | BC0821003	| RoR	| [Heriberto Figueroa Michel](class/bc-AUG-21/BC0821003.pdf) |
-| 153 | BC0821004	| RoR	| [José Maria Estrada Madera](class/bc-AUG-21/BC0821004.pdf) |
-| 152 | BC0821005	| RoR	| [Juan Ramón Guzmán Aguilar](class/bc-AUG-21/BC0821005.pdf) |
-| 151 | BC0821006	| RoR	| [Norman Lau Heredia](class/bc-AUG-21/BC0821006.pdf) |
-| 150 | BC0821007	| RN	| [Carlos Josue Chan Gongora](class/bc-AUG-21/BC0821007.pdf) |
-| 149 | BC0821008	| RN	| [Eusebio Ajas Santos](class/bc-AUG-21/BC0821008.pdf) |
-| 148 | BC0821009	| RN	| [Luis Ángel Jáuregui Flores](class/bc-AUG-21/BC0821009.pdf) |
-| 147 | BC0821010	| RN	| [Raúl Morales Abarca](class/bc-AUG-21/BC0821010.pdf) |
-| 146 | BC0821011	| RN	| [Vladimir Maidana Acarapi](class/bc-AUG-21/BC0821011.pdf) |
+| 156 | BC0821001	| RoR	| [Adrian Manuel Robles Jiménez](class/bc-aug-21/BC0821001.pdf) |
+| 155 | BC0821002	| RoR	| [Edson Paul Morfin Gallardo](class/bc-aug-21/BC0821002.pdf) |
+| 154 | BC0821003	| RoR	| [Heriberto Figueroa Michel](class/bc-aug-21/BC0821003.pdf) |
+| 153 | BC0821004	| RoR	| [José Maria Estrada Madera](class/bc-aug-21/BC0821004.pdf) |
+| 152 | BC0821005	| RoR	| [Juan Ramón Guzmán Aguilar](class/bc-aug-21/BC0821005.pdf) |
+| 151 | BC0821006	| RoR	| [Norman Lau Heredia](class/bc-aug-21/BC0821006.pdf) |
+| 150 | BC0821007	| RN	| [Carlos Josue Chan Gongora](class/bc-aug-21/BC0821007.pdf) |
+| 149 | BC0821008	| RN	| [Eusebio Ajas Santos](class/bc-aug-21/BC0821008.pdf) |
+| 148 | BC0821009	| RN	| [Luis Ángel Jáuregui Flores](class/bc-aug-21/BC0821009.pdf) |
+| 147 | BC0821010	| RN	| [Raúl Morales Abarca](class/bc-aug-21/BC0821010.pdf) |
+| 146 | BC0821011	| RN	| [Vladimir Maidana Acarapi](class/bc-aug-21/BC0821011.pdf) |
 
 ## Clase BCMAY2021
 
