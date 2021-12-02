@@ -2,7 +2,7 @@
 
 ## Clase BCAUG2021
 
-### 23 AIG 2021 - 10 Dic 2021
+### 23 AUG 2021 - 10 Dic 2021
 
 | Num |  BC-ID | Prog | Nombre | 
 | --- | --- | --- | --- |
