@@ -1,5 +1,40 @@
 # Our Graduates
 
+## Clase BCFEB22
+
+### 07 FEB 2021 - 27 MAY 2022
+
+| Num |  BC-ID | Prog | Nombre | 
+| --- | --- | --- | --- |
+| 213 | BC0222001	| RN	| [Carolina Ramón Palacio](class/bc-feb-22/BC0222001.pdf) |
+| 212 | BC0222002	| RN	| [Claudia Velázquez Cruz](class/bc-feb-22/BC0222002.pdf) |
+| 211 | BC0222003	| RN	| [Cristopher Jovanni Macías Hernández](class/bc-feb-22/BC0222003.pdf) |
+| 210 | BC0222004	| RN	| [Everardo Alejandro Torres Viera](class/bc-feb-22/BC0222004.pdf) |
+| 209 | BC0222005	| RN	| [Fernando Etneciv López Ladino](class/bc-feb-22/BC0222005.pdf) |
+| 208 | BC0222006	| RN	| [Jesus David Bernal Mejia](class/bc-feb-22/BC0222006.pdf) |
+| 207 | BC0222007	| RN	| [Jonathan Ramiro Ruiz Sandoval](class/bc-feb-22/BC0222007.pdf) |
+| 206 | BC0222008	| RN	| [Jorge Alberto González Ortíz](class/bc-feb-22/BC0222008.pdf) |
+| 205 | BC0222009	| RN	| [Kelly Johanna Alzate Zabala](class/bc-feb-22/BC0222009.pdf) |
+| 204 | BC0222010	| RN	| [Mario Torres Espinosa](class/bc-feb-22/BC0222010.pdf) |
+| 203 | BC0222012	| RN	| [Omar Ricardo Cardona Hernández](class/bc-feb-22/BC0222011.pdf) |
+| 202 | BC0222012	| RN	| [Oscar Andrés Villarraga García](class/bc-feb-22/BC0222012.pdf) |
+| 201 | BC0222013	| RN	| [Vanina Ayelen Winnik](class/bc-feb-22/BC0222013.pdf) |
+| 200 | BC0222014	| RoR	| [Alan Rigoberto Razo Mendez](class/bc-feb-22/BC0222014.pdf) |
+| 199 | BC0222015	| RoR	| [Alejandro Cuevas Zepeda](class/bc-feb-22/BC0222015.pdf) |
+| 198 | BC0222016	| RoR	| [Alejandro Silva Esquivel](class/bc-feb-22/BC0222016.pdf) |
+| 197 | BC0222017	| RoR	| [Arturo Cano Rueda](class/bc-feb-22/BC0222017.pdf) |
+| 196 | BC0222018	| RoR	| [Diego Steve Silva Mendez](class/bc-feb-22/BC0222018.pdf) |
+| 195 | BC0222019	| RoR	| [Elias Uriel Rodriguez](class/bc-feb-22/BC0222019.pdf) |
+| 194 | BC0222020	| RoR	| [Fernando Emanuel Martinez Montiel](class/bc-feb-22/BC0222020.pdf) |
+| 193 | BC0222021	| RoR	| [Francisco Comparán Pantoja](class/bc-feb-22/BC0222021.pdf) |
+| 192 | BC0222022	| RoR	| [Francisco Javier Ruiz Cadena](class/bc-feb-22/BC0222022.pdf) |
+| 191 | BC0222023	| RoR	| [German Ruiz Cadena](class/bc-feb-22/BC0222023.pdf) |
+| 190 | BC0222024	| RoR	| [Heikel Villar Matos](class/bc-feb-22/BC0222024.pdf) |
+| 189 | BC0222025	| RoR	| [Jorge Alejandro Curiel Galindo](class/bc-feb-22/BC0222025.pdf) |
+| 188 | BC0222026	| RoR	| [Jorge Dávalos Bailón](class/bc-feb-22/BC0222026.pdf) |
+| 187 | BC0222027	| RoR	| [uan Pedro Ramirez Meza](class/bc-feb-22/BC0222027.pdf) |
+| 186 | BC0222028	| RoR	| [Olga Nallely García Díaz](class/bc-feb-22/BC0222028.pdf) |
+
 ## Clase BCNOV2021
 
 ### 16 NOV 2021 - 11 MAR 2022
