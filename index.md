@@ -1,5 +1,33 @@
 # Our Graduates
 
+## Clase BCMAY22
+
+### 02 MAY 2022 - 23 AUG 2022
+
+| Num |  BC-ID | Prog | Nombre | 
+| --- | --- | --- | --- |
+| 234 | BC0522001 | RN |[Ayeza Elizabeth Zamudio Comino](class/bc-may-22/BC0522001.pdf)
+| 233 | BC0522002 | RN |[Cristopher Samuel Wuitron Mendoza](class/bc-may-22/BC0522002.pdf)
+| 232 | BC0522003 | RN |[Daniel Guadalupe Yocupicio Vázquez](class/bc-may-22/BC0522003.pdf)
+| 231 | BC0522004 | RN |[Francisco José Senestrari](class/bc-may-22/BC0522004.pdf)
+| 230 | BC0522005 | RN |[Gerardo Emmanuel Tovar Barragan](class/bc-may-22/BC0522005.pdf)
+| 229 | BC0522006 | RN |[Joana Elizabeth Miguel Gómez](class/bc-may-22/BC0522006.pdf)
+| 228 | BC0522007 | RN |[Luis Ignacio Deniz Navarro](class/bc-may-22/BC0522007.pdf)
+| 227 | BC0522008 | RN |[Martín Jahir Montes Reyes](class/bc-may-22/BC0522008.pdf)
+| 226 | BC0522009 | RN |[Miriam Alicia Marquez Rivera](class/bc-may-22/BC0522009.pdf)
+| 225 | BC0522010 | RN |[Nicolás de Jesús Juarez](class/bc-may-22/BC0522010.pdf)
+| 224 | BC0522012 | RN |[Roberto Carlos Flores Mancera](class/bc-may-22/BC0522012.pdf)
+| 223 | BC0522011 | RN |[Ricardo Valentin Ruggieri](class/bc-may-22/BC0522011.pdf)
+| 222 | BC0522013 | RoR |[Agustin Palma Mardones](class/bc-may-22/BC0522013.pdf)
+| 221 | BC0522014 | RoR |[Luis Gerardo García Espinoza](class/bc-may-22/BC0522014.pdf)
+| 220 | BC0522015 | RoR |[Owen Lobato Velazquez](class/bc-may-22/BC0522015.pdf) 
+| 219 | BC0522016 | RoR |[Victoriano Emilio Juárez Tacam](class/bc-may-22/BC0522016.pdf)
+| 218 | BC0522017 | RoR |[Lucas Andres Videla](class/bc-may-22/BC0522017.pdf) 
+| 217 | BC0522018 | RoR |[Ricardo Nicolás Canul Ibarra](class/bc-may-22/BC0522018.pdf)
+| 216 | BC0522020 | RoR |[Diego Eduardo Larios Mejia](class/bc-may-22/BC0522020.pdf)
+| 215 | BC0522021 | RoR |[Edward Michel Díaz](class/bc-may-22/BC0522021.pdf)
+| 214 | BC0522022 | RoR |[Juan Martín Quintero Balli](class/bc-may-22/BC0522022.pdf) 
+
 ## Clase BCFEB22
 
 ### 07 FEB 2021 - 27 MAY 2022
