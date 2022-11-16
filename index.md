@@ -1,5 +1,34 @@
 # Our Graduates
 
+## Clase BCAUG22
+
+### 01 AUG 2022 - 23 NOV 2022
+| Num |  BC-ID | Prog | Nombre |
+| --- | --- | --- | --- |
+| 257 | BC0822001 | RN |[Antonio de Jesús Hernández Piña](class/bc-aug-22/BC0822001.pdf)
+| 256 | BC0822002 | RN |[Carlos Francisco De Santis](class/bc-aug-22/BC0822002.pdf)
+| 255 | BC0822003 | RN |[Christopher Daniel Ramírez Flores](class/bc-aug-22/BC0822003.pdf)
+| 254 | BC0822004 | RN |[Héctor Alfonso Velasco Alvarez](class/bc-aug-22/BC0822004.pdf)
+| 253 | BC0822005 | RN |[Jose Omar Herrera Peña](class/bc-aug-22/BC0822005.pdf)
+| 252 | BC0822006 | RN |[Lucas Manuel Echegaray](class/bc-aug-22/BC0822006.pdf)
+| 251 | BC0822007 | RN |[Luis Gerardo Barreto Rodríguez](class/bc-aug-22/BC0822007.pdf)
+| 250 | BC0822008 | RN |[Wilson Lopez](class/bc-aug-22/BC0822008.pdf)
+| 249 | BC0822009 | RN |[Ximena Montserrat Velasco Godinez](class/bc-aug-22/BC0822009.pdf)
+| 248 | BC0822010 | RoR|[Calixto López Santos](class/bc-aug-22/BC0822010.pdf)
+| 247 | BC0822011 | RoR |[Claudia González Fuentes](class/bc-aug-22/BC0822011.pdf)
+| 246 | BC0822012 | RoR |[Davinson Castañeda](class/bc-aug-22/BC0822012.pdf)
+| 245 | BC0822013 | RoR |[Diego Alejandro Gentner Polanco](class/bc-aug-22/BC0822013.pdf)
+| 244 | BC0822014 | RoR |[Elio Ramiro Flores Choque](class/bc-aug-22/BC0822014.pdf)
+| 243 | BC0822015 | RoR |[Fahida Rios de la Hoz](class/bc-aug-22/BC0822015.pdf)
+| 242 | BC0822016 | RoR |[Gustavo Higuera Mayoral](class/bc-aug-22/BC0822016.pdf)
+| 241 | BC0822017 | RoR |[Jhan Carlo Higuera Carvajal](class/bc-aug-22/BC0822017.pdf)
+| 240 | BC0822018 | RoR |[Jorge Alberto Rodríguez Flores](class/bc-aug-22/BC0822018.pdf)
+| 239 | BC0822019 | RoR |[Jorge Eduardo Vargas Ramirez](class/bc-aug-22/BC0822019.pdf)
+| 238 | BC0822020 | RoR |[José Eduardo Briceño Brizuela](class/bc-aug-22/BC0822020.pdf)
+| 237 | BC0822021 | RoR |[Martin Davila Cervantes](class/bc-aug-22/BC0822021.pdf)
+| 236 | BC0822022 | RoR |[Willian Eduardo Cab Guillen](class/bc-aug-22/BC0822022.pdf)
+| 235 | BC0822023 | RoR |[Ximena Bolaños Cacho Iraizos](class/bc-aug-22/BC0822023.pdf)
+
 ## Clase BCMAY22
 
 ### 02 MAY 2022 - 23 AUG 2022
