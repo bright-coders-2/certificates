@@ -3,6 +3,7 @@
 ## Clase BCAUG22
 
 ### 01 AUG 2022 - 23 NOV 2022
+
 | Num |  BC-ID | Prog | Nombre |
 | --- | --- | --- | --- |
 | 257 | BC0822001 | RN |[Antonio de Jesús Hernández Piña](class/bc-aug-22/BC0822001.pdf)
