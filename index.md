@@ -1,5 +1,44 @@
 # Our Graduates
 
+## Clase BCDIC22
+
+### 12 DIC 2022 - 28 ABR 2023
+
+| Num |  BC-ID | Prog | Nombre |
+| --- | --- | --- | --- |
+| 289 | BC1222001 | RN |[Adrián Manrique Zamora](class/bc-dic-22/BC1222001.pdf)
+| 288 | BC1222002 | RN |[Alexander Emanuel Garzo Solares](class/bc-dic-22/BC1222002.pdf)
+| 287 | BC1222003 | RN |[Arturo Alejandro China Santa Ana](class/bc-dic-22/BC1222003.pdf)
+| 286 | BC1222004 | RN |[Carlos Enrique Mendoza Lobo](class/bc-dic-22/BC1222004.pdf)
+| 285 | BC1222005 | RN |[Esmeralda Jomary Ochoa Flores](class/bc-dic-22/BC1222005.pdf)
+| 284 | BC1222006 | RN |[Gaddiel Alejandro Patiño Morfin](class/bc-dic-22/BC1222006.pdf)
+| 283 | BC1222007 | RN |[Gerardo Ismael Garcia Gonzalez](class/bc-dic-22/BC1222007.pdf)
+| 282 | BC1222008 | RN |[Itzel Beatriz Heredia Avila](class/bc-dic-22/BC1222008.pdf)
+| 281 | BC1222009 | RN |[Jesús Iván Godínez Martínez](class/bc-dic-22/BC1222009.pdf)
+| 280 | BC1222010 | RN |[José Carlos Barbosa Mendez](class/bc-dic-22/BC1222010.pdf)
+| 279 | BC1222011 | RN |[José Elías Franco Ibarra](class/bc-dic-22/BC1222011.pdf)
+| 278 | BC1222012 | RN |[Juan Pablo Jiménez Covarrubias](class/bc-dic-22/BC1222012.pdf)
+| 277 | BC1222013 | RN |[Karen Itzel Covarrubias Merlo](class/bc-dic-22/BC1222013.pdf)
+| 276 | BC1222014 | RN |[Leonardo Aguirre Ponce](class/bc-dic-22/BC1222014.pdf)
+| 275 | BC1222015 | RN |[María Camila Pinzón Paredes](class/bc-dic-22/BC1222015.pdf)
+| 274 | BC1222016 | RN |[Rodrigo Rafael Aparicio Ramirez](class/bc-dic-22/BC1222016.pdf)
+| 273 | BC1222017 | RN |[Victor Medina Campos](class/bc-dic-22/BC1222017.pdf)
+| 272 | BC1222018 | RoR |[Angel Abraham Flores Ramirez](class/bc-dic-22/BC1222018.pdf)
+| 271 | BC1222019 | RoR |[Arnoldo Magaña Cernas](class/bc-dic-22/BC1222019.pdf)
+| 270 | BC1222020 | RoR |[Carlos Eduardo Ospina Gomez](class/bc-dic-22/BC1222020.pdf)
+| 269 | BC1222021 | RoR |[Diego Alejandro Morales Bravo](class/bc-dic-22/BC1222021.pdf)
+| 268 | BC1222022 | RoR |[Diego Jeancarlo Corona Barragán](class/bc-dic-22/BC1222022.pdf)
+| 267 | BC1222023 | RoR |[Eduard Issael Montaño Arreola](class/bc-dic-22/BC1222023.pdf)
+| 266 | BC1222024 | RoR |[Everardo Alcaraz Baltazar](class/bc-dic-22/BC1222024.pdf)
+| 265 | BC1222025 | RoR |[Iker Ismak Toscano Santos](class/bc-dic-22/BC1222025.pdf)
+| 264 | BC1222026 | RoR |[José Maximiliano Retana López](class/bc-dic-22/BC1222026.pdf)
+| 263 | BC1222027 | RoR |[Juan Gilberto Mejia Carrazco](class/bc-dic-22/BC1222027.pdf)
+| 262 | BC1222028 | RoR |[Manuel Eduardo Rios Martinez](class/bc-dic-22/BC1222028.pdf)
+| 261 | BC1222029 | RoR |[Mario Alberto Cordova Mendoza](class/bc-dic-22/BC1222029.pdf)
+| 260 | BC1222030 | RoR |[Oscar Enrique González Rolón](class/bc-dic-22/BC1222030.pdf)
+| 259 | BC1222031 | RoR |[Severo Iglesias Jimenez](class/bc-dic-22/BC1222031.pdf)
+| 258 | BC1222032 | RoR |[Yaxkin Erick Cárdenas Sánchez](class/bc-dic-22/BC1222032.pdf)
+
 ## Clase BCAUG22
 
 ### 01 AUG 2022 - 23 NOV 2022
