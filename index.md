@@ -1,5 +1,43 @@
 # Our Graduates
 
+## Clase BCMAY23
+
+### 29 MAY 2023 - 21 SEP 2023
+
+| Num |  BC-ID | Prog | Nombre |
+| --- | --- | --- | --- |
+| 289 | BC0523001 | RN |[Alexis Rafael Fernández Bernal](class/bc-may-23/BC0523001.pdf)
+| 289 | BC0523002 | RN |[Alfredo Paz Zamora](class/bc-may-23/BC0523002.pdf)
+| 289 | BC0523003 | RN |[Arnoldo Magaña Cernas](class/bc-may-23/BC0523003.pdf)
+| 289 | BC0523004 | RN |[Axel Omar Arredondo Viera](class/bc-may-23/BC0523004.pdf)
+| 289 | BC0523005 | RN |[Brandon Azael Vadillo Guzmán](class/bc-may-23/BC0523005.pdf)
+| 289 | BC0523006 | RN |[Carlos Antonio Ramírez García](class/bc-may-23/BC0523006.pdf)
+| 289 | BC0523007 | RN |[César Alejandro Tolentino Mendoza](class/bc-may-23/BC0523007.pdf)
+| 289 | BC0523008 | RN |[César Alejandro Tolentino Mendoza](class/bc-may-23/BC0523008.pdf)
+| 289 | BC0523009 | RN |[Eduardo Espiritu Lopez](class/bc-may-23/BC0523009.pdf)
+| 289 | BC0523010 | RN |[Emir Cruz Maldonado](class/bc-may-23/BC0523010.pdf)
+| 289 | BC0523011 | RN |[Gustavo López Chávez](class/bc-may-23/BC0523011.pdf)
+| 289 | BC0523012 | RN |[Jaime Osvaldo González Cárdenas](class/bc-may-23/BC0523012.pdf)
+| 289 | BC0523013 | RN |[Jose Antonio Madera Gonzalez](class/bc-may-23/BC0523013.pdf)
+| 289 | BC0523014 | RN |[José Ramón Ibarra Mendoza ](class/bc-may-23/BC0523014.pdf)
+| 289 | BC0523015 | RN |[Joshua Elizabeth Flores Méndez](class/bc-may-23/BC0523015.pdf)
+| 289 | BC0523016 | RN |[Luis Gerardo García Espinoza](class/bc-may-23/BC0523016.pdf)
+| 289 | BC0523017 | RN |[Miguel Cobian Meraz](class/bc-may-23/BC0523017.pdf)
+| 289 | BC0523018 | RN |[Montserrat Guadalupe Aguilar Valle](class/bc-may-23/BC0523018.pdf)
+| 289 | BC0523019 | RN |[Orlando Ledón Salazar](class/bc-may-23/BC0523019.pdf)
+| 289 | BC0523020 | RN |[Sergio Alberto García Martínez ](class/bc-may-23/BC0523020.pdf)
+| 289 | BC0523021 | ROR |[Adrián Manrique Zamora](class/bc-may-23/BC0523021.pdf)
+| 289 | BC0523022 | ROR |[Alonso López Maldonado](class/bc-may-23/BC0523022.pdf)
+| 289 | BC0523023 | ROR |[Brandon Yoel Hernández Ascencio ](class/bc-may-23/BC0523023.pdf)
+| 289 | BC0523024 | ROR |[Braulio Alberto Gutiérrez Rojas](class/bc-may-23/BC0523024.pdf)
+| 289 | BC0523025 | ROR |[Héctor Miguel Rodríguez Muñiz](class/bc-may-23/BC0523025.pdf)
+| 289 | BC0523026 | ROR |[Hugo Enrique Cruz Batista](class/bc-may-23/BC0523026.pdf)
+| 289 | BC0523027 | ROR |[José Gabino Morales González](class/bc-may-23/BC0523027.pdf)
+| 289 | BC0523028 | ROR |[José Guadalupe López Solís ](class/bc-may-23/BC0523028.pdf)
+| 289 | BC0523029 | ROR |[Juan Manuel Michel Vargas](class/bc-may-23/BC0523029.pdf)
+| 289 | BC0523030 | ROR |[Moisés Iván Silva Velasco](class/bc-may-23/BC0523030.pdf)
+| 289 | BC0523031 | ROR |[Víctor Abel García Martínez ](class/bc-may-23/BC0523031.pdf)
+
 ## Clase BCDIC22
 
 ### 12 DIC 2022 - 28 ABR 2023
@@ -129,7 +167,7 @@
 | 190 | BC0222024	| RoR	| [Heikel Villar Matos](class/bc-feb-22/BC0222024.pdf) |
 | 189 | BC0222025	| RoR	| [Jorge Alejandro Curiel Galindo](class/bc-feb-22/BC0222025.pdf) |
 | 188 | BC0222026	| RoR	| [Jorge Dávalos Bailón](class/bc-feb-22/BC0222026.pdf) |
-| 187 | BC0222027	| RoR	| [uan Pedro Ramirez Meza](class/bc-feb-22/BC0222027.pdf) |
+| 187 | BC0222027	| RoR	| [Juan Pedro Ramirez Meza](class/bc-feb-22/BC0222027.pdf) |
 | 186 | BC0222028	| RoR	| [Olga Nallely García Díaz](class/bc-feb-22/BC0222028.pdf) |
 
 ## Clase BCNOV2021
